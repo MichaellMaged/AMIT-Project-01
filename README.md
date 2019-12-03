@@ -1,0 +1,1 @@
+This is the first project for Amit web development course done using HTMl only
